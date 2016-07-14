@@ -1,2 +1,2 @@
-# hackerrank
-A collection of my algorithms and solutions in various languages to problems from the hackerrank website.
+# HackerRank
+A collection of my algorithms and solutions in various languages to problems from the [hackerrank website](https://www.hackerrank.com).
