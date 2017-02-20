@@ -1,2 +1,2 @@
 # HackerRank
-A collection of my algorithms and solutions in various languages to problems from the [hackerrank website](https://www.hackerrank.com).
+[My](https://www.hackerrank.com/yashketkar) solutions to the problems on [HackerRank](https://www.hackerrank.com).
